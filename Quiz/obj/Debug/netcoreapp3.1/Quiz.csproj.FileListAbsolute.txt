@@ -1,0 +1,14 @@
+C:\Users\Kubuś\Desktop\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.exe
+C:\Users\Kubuś\Desktop\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.deps.json
+C:\Users\Kubuś\Desktop\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.json
+C:\Users\Kubuś\Desktop\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.dev.json
+C:\Users\Kubuś\Desktop\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.dll
+C:\Users\Kubuś\Desktop\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.pdb
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.csproj.AssemblyReference.cache
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfoInputs.cache
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfo.cs
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.dll
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.pdb
+C:\Users\Kubuś\Desktop\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.genruntimeconfig.cache

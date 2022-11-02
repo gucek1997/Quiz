@@ -1,0 +1,18 @@
+﻿Jak Jakub Kocha Joanne ?
+Bardzo 
+najbardziej na swiecie
+Troszke
+Ciut Ciut
+B5
+Czy Jakub potrzebuję coś w sobie zmienić ?
+Tak
+Nie
+Nie wiem
+Potrzebujesz w sobie dużo zmienić
+A5
+Czy Joanna kocha Jakuba?
+Nie 
+Nie wiem
+Tak
+Kto to wie 
+C2

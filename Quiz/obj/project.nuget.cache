@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "odWrS7a2upPuk3/+v84rcMuYpQsch9eh9ORBdI3Svd5YYwo6fXJ8W1CWLLoH27Jv/fP+ibtu6F5uTKaGmXZuhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kubuś\\Desktop\\Quiz\\Quiz\\Quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kubuś\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
